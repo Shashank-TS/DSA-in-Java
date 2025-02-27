@@ -1,0 +1,5 @@
+//youtube channel "simply coding" or in tech and problems playlist
+
+1. run the outer for loop as number of lines to display (rows)
+2. increasing triangle - condition
+3. decreasing triangle - initialization
